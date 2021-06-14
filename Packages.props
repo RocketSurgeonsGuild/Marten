@@ -33,7 +33,7 @@
     <PackageReference Update="NodaTime.Serialization.JsonNet" Version="3.0.0" />
     <PackageReference Update="NodaTime.Testing" Version="3.0.5" />
     <PackageReference Update="Npgsql" Version="5.0.4" />
-    <PackageReference Update="Npgsql.NodaTime" Version="5.0.4" />
+    <PackageReference Update="Npgsql.NodaTime" Version="5.0.7" />
     <PackageReference Update="Rocket.Surgery.Extensions.CommandLine.Abstractions" Version="9.1.1" />
     <PackageReference Update="Rocket.Surgery.Extensions.DependencyInjection" Version="9.1.1" />
     <PackageReference Update="Rocket.Surgery.Extensions.DependencyInjection.Abstractions" Version="9.1.1" />
